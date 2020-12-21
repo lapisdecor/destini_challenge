@@ -2,15 +2,10 @@
 
 A multiple path story
 
-## Getting Started
+## Explanation
 
-This project is a starting point for a Flutter application.
+This project is the last exercise from the appbrewery flutter course.
+It's a multiple choice story teller with a taste for mistery and crime.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You may run it by installing flutter on your machine and running the app on your desktop.
+You can also run it on your phone or on a Apple / Android phone emulator.
